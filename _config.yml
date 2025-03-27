@@ -241,11 +241,6 @@ pagination:
   # Set enabled to true to use paginate v2
   # enabled: true
   debug: false
-collections:
-  projects:
-   output: true
-   permalink: /projects/:path/
-
   per_page: 10
   permalink: '/page/:num/'
   title: ':title - page :num'
@@ -259,7 +254,12 @@ collections:
     before: 2
     after: 2
 
-
+  
+collections:
+  projects:
+    output: true
+    permalink: /projects/:path/
+    
 # Plugins (previously gems:)
 plugins:
   - jekyll-paginate
