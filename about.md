@@ -45,4 +45,4 @@ My research focuses on understanding the relationship between the built environm
   Street view image, Image segmentation
 
 - **Neuroscience**  
-  EEG (brainwave), fMRI, Virtual reality (VR)
+  EEG (brainwave), Eye-tracking, Virtual reality (VR)
