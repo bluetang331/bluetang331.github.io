@@ -10,7 +10,7 @@ classes: wide
 ##  First and Corresponding Author
 
 - **Choi, K.**, Lee, J., Park, C., & Sohn, D. (2024). Development of a Fire Risk Assessment System for Industrial Complexes Using GIS. *Korea Institute of Ecological Architecture and Environment Journal*, 24(4), 105–117.
-- **Choi, K.**, Kim, S., Nam, K., & Sohn, D. (2025). The Impact of Physical Accessibility Characteristics of the Residential Environment on Fertility Rates in Seoul. *Journal of the Architectural Institute of Korea* (Revise and Resubmit).
+- **Choi, K.**, Kim, S., Nam, K., & Sohn, D. (2025). The Impact of Physical Accessibility Characteristics of the Residential Environment on Fertility Rates in Seoul. *Journal of the Architectural Institute of Korea* *(Revise and Resubmit)*.
 - **Choi, K.**, Lee, J., & Sohn, D. (2025). Examining the Non-linear Relationship between the Residential Environment and Birth Rate in Seoul, South Korea. *(In Progress)*.
 - **Choi, K.**, Park, C., & Sohn, D. (2025). Evaluating the Impact of Street Environment on Business Duration Period in Seoul’s Commercial Area – Using Google Street View and Deep Learning. *(In Progress)*.
 - **Choi, K.**, Lee, D., Kim, S., & Sohn, D. (2025). The Impact of Compact City Characteristics on Economic Performance of Cities in Different Sizes. *(In Progress)*.
