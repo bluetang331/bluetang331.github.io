@@ -5,7 +5,6 @@ permalink: /awards/
 classes: wide
 ---
 
-#  Awards
 
 ## 2025
 - **Winner**  
