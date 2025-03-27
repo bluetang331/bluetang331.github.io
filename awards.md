@@ -3,6 +3,7 @@ layout: single
 title: "Award"
 permalink: /awards/
 classes: wide
+author_profile: true
 ---
 
 
