@@ -6,7 +6,7 @@ classes: wide
 ---
 
 
-#  About
+
 
 I am a Ph.D. student in the Department of Architecture at Yonsei University.  
 My research focuses on understanding the relationship between the built environment and human behavior through data-driven methods such as machine learning, computer vision, and neuroscience.
