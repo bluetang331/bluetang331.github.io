@@ -22,12 +22,11 @@ My research focuses on understanding the relationship between the built environm
   Advisor: Prof. Dongwook Sohn
 
 - **M.S. in Architecture**  
-  *Mar 2023 – Feb 2025*  
-  GPA: 4.45 / 4.5
+  *Mar 2023 – Feb 2025*
+  Thesis: A Study on the Spatial Planning Strategies for the N-minute City: Focusing on the Relationship between Residential Environment and the Number of Births
 
 - **B.Arch**  
   *Mar 2018 – Feb 2023*  
-  GPA: 3.95 / 4.5 (Major GPA: 4.1 / 4.5)
 
 ---
 
