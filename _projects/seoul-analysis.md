@@ -6,7 +6,7 @@ layout: single
 date: 2024-12-01
 categories: [urban, datascience]
 header:
-  image: /assets/images/seoul.jpg
+  image: /assets/images/seoul.png
   caption: "서울시 건축 밀도 분석 결과"
 ---
 
