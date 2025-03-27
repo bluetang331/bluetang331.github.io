@@ -19,7 +19,7 @@ author_profile: true
 - **Choi, K.**, Kim, S., Nam, K., & Sohn, D. (2025). The Impact of Physical Accessibility Characteristics of the Residential Environment on Fertility Rates in Seoul. *Journal of the Architectural Institute of Korea* *(Revise and Resubmit)*.
 
 **2024**  
-- **Choi, K.**, Lee, J., Park, C., & Sohn, D. (2024). Development of a Fire Risk Assessment System for Industrial Complexes Using GIS. *Korea Institute of Ecological Architecture and Environment Journal*, 24(4), 105–117.
+- **Choi, K.**, Lee, J., Park, C., & Sohn, D. (2024). Development of a Fire Risk Assessment System for Industrial Complexes Using GIS. *Korea Institute of Ecological Architecture and Environment Journal*, 24(4), 105–117. **(Best Paper Award, Korea Institute of Ecological Architecture and Environment)**
 
 ---
 
@@ -58,7 +58,7 @@ author_profile: true
 - Lee, D., Oh, K., **Choi, K.**, Kim, S., & Sohn, D. (2025). Research Trends of Industrial Building Management in Domestic Urban and Architectural Areas. *Proceedings of Architectural Institute of Korea*.  
 
 **2024**  
-- **Choi, K.**, Park, C., & Sohn, D. (2024). Evaluating the Effect of Street Environments on Survival of Restaurant: Using Machine Learning and Street View Images. *Proceedings of Korea Institute of Ecological Architecture and Environment*, 24(2), 74–75.
+- **Choi, K.**, Park, C., & Sohn, D. (2024). Evaluating the Effect of Street Environments on Survival of Restaurant: Using Machine Learning and Street View Images. *Proceedings of Korea Institute of Ecological Architecture and Environment*, 24(2), 74–75. **(Best Conference Paper Award, Korea Institute of Ecological Architecture and Environment, Fall Conference)**
   
 **2023**  
 - **Choi, K.**, Kim, S., Park, C., Jung, U., Lee, J., & Sohn, D. (2023). Classification of Indicators for Urban Fire Risk Assessment through Analysis of Previous Studies. *Proceedings of Architectural Institute of Korea*, 43(2), 242–243.
