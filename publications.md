@@ -9,7 +9,7 @@ classes: wide
 ---
 #  JOURNAL ARTICLES
 
-##  First and Corresponding Author
+##  First Author
 
 - **Choi, K.**, Lee, J., Park, C., & Sohn, D. (2024). Development of a Fire Risk Assessment System for Industrial Complexes Using GIS. *Korea Institute of Ecological Architecture and Environment Journal*, 24(4), 105–117.
 - **Choi, K.**, Kim, S., Nam, K., & Sohn, D. (2025). The Impact of Physical Accessibility Characteristics of the Residential Environment on Fertility Rates in Seoul. *Journal of the Architectural Institute of Korea* *(Revise and Resubmit)*.
