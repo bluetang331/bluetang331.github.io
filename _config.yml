@@ -114,7 +114,7 @@ analytics:
 # Site Author
 author:
   name             : "Kyujin Choi"
-  avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  avatar           : "/assets/images/kyujin.jpg"
   bio              : "Ph.D. student at Yonsei University"
   location         : "Seoul, Korea"
   email            :
