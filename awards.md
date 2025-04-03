@@ -8,8 +8,9 @@ author_profile: true
 
 
 
-- **Winner**, *ULI(Urban Land Institute) Hines Competition Asia Pacific*  
-  March 2025 
+- **Grand prize (Minister of Culture, Sports and Tourism Award)**, 21st Excellent Graduation Thesis Exhibition, *Architectural institute of Korea*  
+  *"A Study on the Spatial Planning Strategies for the N-minute City: Focusing on the Relationship between Residential Environment and the Number of Births"*
+  April 2025 
 
 - **Best Paper Award**, *Korea Institute of Ecological Architecture and Environment*  
   *"Development of a Fire Risk Assessment System for Industrial Complexes Using GIS"*  
