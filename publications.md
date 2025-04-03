@@ -16,7 +16,8 @@ author_profile: true
 
 ##  First Author  
 **2025**  
-- **Choi, K.**, Kim, S., Nam, K., & Sohn, D. (2025). The Impact of Physical Accessibility Characteristics of the Residential Environment on Fertility Rates in Seoul. *Journal of the Architectural Institute of Korea* *(Revise and Resubmit)*.
+- **Choi, K.**, Kim, S., Nam, K., & Sohn, D. (2025). The Impact of Physical Accessibility Characteristics of the Residential Environment on Fertility Rates in Seoul. *Journal of the Architectural Institute of Korea* *(Revise and Resubmit)*. **(Grand Prize, Minister of Culutre, Sports and Tourism Award)**  
+- **Choi, K.**, Lee, D., Kim, S., & Sohn, D. (2025). The Impact of Compact City Characteristics on Economic Performance of Cities in Different Sizes. *Cities*. (Submitted).
 
 **2024**  
 - **Choi, K.**, Lee, J., Park, C., & Sohn, D. (2024). Development of a Fire Risk Assessment System for Industrial Complexes Using GIS. *Korea Institute of Ecological Architecture and Environment Journal*, 24(4), 105–117. **(Best Paper Award)**
@@ -27,7 +28,7 @@ author_profile: true
 
 **2025**  
 - Jung, U., Kim, S., **Choi, K.**, Lee, J., & Sohn, D. (2025). Effects of Color Changes in Building Façade on Pedestrian and Emotional Perception in a Virtual Urban Street Environment. *Sustainable Cities and Society*. (Submitted)
-- Jung, U., Lee, J., **Choi, K.**, Kim, S., & Sohn, D. (2025). The Impact of Architectural Detail Variation on Attention and Emotional Responses in Virtual Environments. *Journal of the Architectural Institute of Korea* (Revise and Resubmit).
+- Jung, U., Lee, J., **Choi, K.**, Kim, S., & Sohn, D. (2025). The Impact of Architectural Detail Variation on Attention and Emotional Responses in Virtual Environments. *Journal of the Architectural Institute of Korea* (Accepted).
 - Lee, J.H., **Choi, K.**, Jung, U., & Lee, J.W. (2025). A Review of Brain-Computer Interface (BCI) Applications in Measuring the Built Environment and an Evaluation of Its Applicability Through a Pilot Study. *Korea Institute of Ecological Architecture and Environment Journal* (Revise and Resubmit).
 - Park, C., **Choi, K.**, Kim, S., Lee, D., Lee, J., & Sohn, D. (2025). Analysis of Pothole Vulnerable Roads Using GIS – Focused on Gangnam-gu. *Korea Institute of Ecological Architecture and Environment Journal* (Accepted).
 - Kim, S., Park, C., Lee, D., **Choi, K.**, Nam, K., & Sohn, D. (2025). A GIS-based Study on Site Selection for Long-term Temporary Housing for Disaster Response. *Korea Institute of Ecological Architecture and Environment Journal* (Revise and Resubmit).
@@ -43,7 +44,6 @@ author_profile: true
 
 - **Choi, K.**, Lee, J., & Sohn, D. (2025). Examining the Non-linear Relationship between the Residential Environment and Birth Rate in Seoul, South Korea. *(In Progress)*.
 - **Choi, K.**, Park, C., & Sohn, D. (2025). Evaluating the Impact of Street Environment on Business Duration Period in Seoul’s Commercial Area – Using Google Street View and Deep Learning. *(In Progress)*.
-- **Choi, K.**, Lee, D., Kim, S., & Sohn, D. (2025). The Impact of Compact City Characteristics on Economic Performance of Cities in Different Sizes. *(In Progress)*.
 - **Choi, K.**, Jung, U., Kim, S., Lee, J., & Sohn, D. (2025). Exploring the Emotional Impact of Architectural Façade Characteristics on Pedestrians: A VR-based Brainwave Experiment. *(In Progress)*.
 - Park, C., **Choi, K.**, Sohn, D., & Lee, J. (2025). Fire Vulnerability Assessment in Industrial Complexes Based on GIS and AHP: A Case Study of the Namdong Industrial Complex, Incheon. *(In Progress)*.
 - Lee, J., **Choi, K.**, & Sohn, D. (2025). A TOPSIS-based Multi-criteria Analysis of Fire Risk Factors in Industrial Complexes. *(In Progress)*.
