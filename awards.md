@@ -8,7 +8,7 @@ author_profile: true
 
 
 
-- **Grand prize (Minister of Culture, Sports and Tourism Award)**, 21st Excellent Graduation Thesis Exhibition, *Architectural institute of Korea*  
+- **Grand prize (Minister of Culture, Sports and Tourism Award)**, 21st Excellent Graduation Thesis Exhibition, *Architectural Institute of Korea*  
   *"A Study on the Spatial Planning Strategies for the N-minute City: Focusing on the Relationship between Residential Environment and the Number of Births"*  
   April 2025 
 
