@@ -52,8 +52,10 @@ author_profile: true
 
 ---
 
+  
 #  CONFERENCE PAPERS  
 
+  
 **2025**  
 - Lee, D., Oh, K., **Choi, K.**, Kim, S., & Sohn, D. (2025). Research Trends of Industrial Building Management in Domestic Urban and Architectural Areas. *Proceedings of Architectural Institute of Korea*.  
 
