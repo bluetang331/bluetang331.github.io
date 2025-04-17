@@ -18,7 +18,7 @@ author_profile: true
 **2025**  
 - **Choi, K.**, Kim, S., Nam, K., & Sohn, D. (2025). The Impact of Physical Accessibility Characteristics of the Residential Environment on Fertility Rates in Seoul. *Journal of the Architectural Institute of Korea* *(Revise and Resubmit)*. 
 - **Choi, K.**, Lee, D., Kim, S., & Sohn, D. (2025). The Impact of Compact City Characteristics on Economic Performance of Cities in Different Sizes. *Cities*. (Submitted).
-- **Choi, K.** (2024). A Study on the Spatial Planning Strategies for the N-minute City: Focusing on the Relationship between Residential Environment and the Number of Births, **Thesis**, *Yonsei University*.[🔗](https://www.riss.kr/search/detail/DetailView.do?p_mat_type=be54d9b8bc7cdb09&control_no=6457ea5107e14a87ffe0bdc3ef48d419) **(Grand Prize, Minister of Culture, Sports and Tourism Award)**
+- **Choi, K.** (2024). A Study on the Spatial Planning Strategies for the N-minute City: Focusing on the Relationship between Residential Environment and the Number of Births, **Thesis**, *Yonsei University*. **(Grand Prize, Minister of Culture, Sports and Tourism Award)** [🔗](https://www.riss.kr/search/detail/DetailView.do?p_mat_type=be54d9b8bc7cdb09&control_no=6457ea5107e14a87ffe0bdc3ef48d419)
 
 **2024**  
 - **Choi, K.**, Lee, J., Park, C., & Sohn, D. (2024). Development of a Fire Risk Assessment System for Industrial Complexes Using GIS. *Korea Institute of Ecological Architecture and Environment Journal*, 24(4), 105–117. **(Best Paper Award)**
