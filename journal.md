@@ -6,7 +6,7 @@ classes: wide
 author_profile: true
 ---
 
-#  JOURNAL ARTICLES
+#  JOURNAL PAPERS
 
 
 ##  First Author  
