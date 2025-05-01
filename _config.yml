@@ -14,6 +14,9 @@ theme                  : "minimal-mistakes-jekyll"
 remote_theme           : "mmistakes/minimal-mistakes"
 minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
 
+navigation:
+  - main
+  
 # Site Settings
 locale                   : "en-US"
 rtl                      : # true, false (default) # turns direction of the page into right to left for RTL languages
@@ -320,8 +323,6 @@ compress_html:
   ignore:
     envs: development
 
-navigation:
-  - main
   
 # Defaults
 defaults:
