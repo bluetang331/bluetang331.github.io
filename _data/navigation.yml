@@ -10,9 +10,14 @@ main:
   - title: "Project"
     url: "/projects/"
 
-  - title: "Publication"
+  - title: "Publications"
     url: "/publications/"
-    
+    children:
+      - title: "Journal Papers"
+        url: "/publications/journal/"
+      - title: "Conference Papers"
+        url: "/publications/conference/"
+        
   - title: "Award"
     url: "/awards/"    
     
