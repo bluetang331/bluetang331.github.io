@@ -11,12 +11,12 @@ main:
     url: "/projects/"
 
   - title: "Publications"
-    url: "/publications/"
+    url: /publications/
     children:
       - title: "Journal Papers"
-        url: "/publications/journal/"
+        url: /publications/journal/
       - title: "Conference Papers"
-        url: "/publications/conference/"
+        url: /publications/conference/
         
   - title: "Award"
     url: "/awards/"    
