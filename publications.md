@@ -1,16 +1,18 @@
 ---
 layout: single
+Title: "Publications"
 permalink: /publications/
 classes: wide
 author_profile: true
 ---
 
 
-#  JOURNAL PAPERS
-[View in Korean](/publications/journal/)  
+#  JOURNAL PAPERS  
+<a href="/publications/journal/" style="color: #888; text-decoration: none; font-size: 0.9em;">View in Korean</a>
 
 
 ##  First Author  
+
 **2025**  
 - **Choi, K.**, Kim, S., Nam, K., & Sohn, D. (2025). The Impact of Physical Accessibility Characteristics of the Residential Environment on Fertility Rates in Seoul. *Journal of the Architectural Institute of Korea* (Accepted).
 - **Choi, K.**, Lee, J., & Sohn, D. (2025). Examining the Non-linear Relationship between the Residential Environment and Birth Rate in Seoul, South Korea. (Submitted).
@@ -18,7 +20,7 @@ author_profile: true
 - **Choi, K.** (2024). A Study on the Spatial Planning Strategies for the N-minute City: Focusing on the Relationship between Residential Environment and the Number of Births, **Thesis**, *Yonsei University*. **(Grand Prize, Minister of Culture, Sports and Tourism Award)** [🔗](https://www.riss.kr/search/detail/DetailView.do?p_mat_type=be54d9b8bc7cdb09&control_no=6457ea5107e14a87ffe0bdc3ef48d419)
 
 **2024**  
-- **Choi, K.**, Lee, J., Park, C., & Sohn, D. (2024). Development of a Fire Risk Assessment System for Industrial Complexes Using GIS. *Korea Institute of Ecological Architecture and Environment Journal*, 24(4), 105–117. **(Best Paper Award)** [🔗](https://www.dbpia.co.kr/Journal/articleDetail?nodeId=NODE11914398)
+- **Choi, K.**, Lee, J., Park, C., & Sohn, D. (2024). Development of a Fire Risk Assessment System for Industrial Complexes Using GIS. *Korea Institute of Ecological Architecture and Environment Journal*, 24(4), 105–117. **(Best Paper Award)** [🔗](https://www.dbpia.co.kr/Journal/articleDetail?nodeId=NODE11914398)  
 
 ---
 
@@ -34,12 +36,9 @@ author_profile: true
 - Kim, S., **Choi, K.**, Park, C., & Sohn, D. (2024). The Spatial Pattern of Inter-regional Migration by Age Groups and Its Influencing Factors. *Journal of the Architectural Institute of Korea*, 41(1), 187–198. [🔗](https://www.dbpia.co.kr/Journal/articleDetail?nodeId=NODE12036081)  
 
 **2024** 
-- Lee, J.H., **Choi, K.**, Park, C., Lee, J.W., & Sohn, D. (2024). Predicting the Size of Fire Property Damage in an Industrial Complex Using a Machine Learning Model. *Korea Institute of Ecological Architecture and Environment Journal*, 24(2), 97–106. [🔗](https://www.dbpia.co.kr/Journal/articleDetail?nodeId=NODE11757093)
-
-
+- Lee, J.H., **Choi, K.**, Park, C., Lee, J.W., & Sohn, D. (2024). Predicting the Size of Fire Property Damage in an Industrial Complex Using a Machine Learning Model. *Korea Institute of Ecological Architecture and Environment Journal*, 24(2), 97–106. [🔗](https://www.dbpia.co.kr/Journal/articleDetail?nodeId=NODE11757093)  
 
 ---
-
 
 ##  In progress  
 
@@ -48,16 +47,14 @@ author_profile: true
 - Park, C., **Choi, K.**, Sohn, D., & Lee, J. (2025). Fire Vulnerability Assessment in Industrial Complexes Based on GIS and AHP: A Case Study of the Namdong Industrial Complex, Incheon. *(In Progress)*.
 - Lee, J., **Choi, K.**, & Sohn, D. (2025). A TOPSIS-based Multi-criteria Analysis of Fire Risk Factors in Industrial Complexes. *(In Progress)*.
 - Lee, J., **Choi, K.**, & Sohn, D. (2025). GIS-based Importance-Performance Analysis (IPA) for Fire Risk Assessment in Industrial Complexes. *(In Progress)*.
-- Lee, D., **Choi, K.**, Park, C., Kim, S., & Sohn, D. (2025). Data-driven Assessment of Urban Road Vulnerability Using GIS and Machine Learning: A Case Study of Pothole Risk in Gangnam-gu, Seoul. *(In Progress)*.
-
+- Lee, D., **Choi, K.**, Park, C., Kim, S., & Sohn, D. (2025). Data-driven Assessment of Urban Road Vulnerability Using GIS and Machine Learning: A Case Study of Pothole Risk in Gangnam-gu, Seoul. *(In Progress)*.  
 
 ---
 
-
 #  CONFERENCE PAPERS  
-[View in Korean](/publications/conference/)
+<a href="/publications/conference/" style="color: #888; text-decoration: none; font-size: 0.9em;">View in Korean</a>
 
-  
+
 **2025**  
 - **Choi, K.**, Lee, J., Jung, U. & Sohn, D. (2025). An EEG-based analysis of pedestrian neural responses to architectural height variation. Proceedings of Korea Institute of Ecological Architecture and Environment
 - Jung, U., Lee, J., **Choi, K.** & Sohn, D. (2025). EEG-based neural responses to façade color spectrum variations in urban streetscapes. Proceedings of Korea Institute of Ecological Architecture and Environment
