@@ -320,7 +320,9 @@ compress_html:
   ignore:
     envs: development
 
-
+navigation:
+  - main
+  
 # Defaults
 defaults:
   # _posts
