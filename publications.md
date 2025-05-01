@@ -67,5 +67,4 @@ author_profile: true
 - Park, C., Lee, J., **Choi, K.**, & Sohn, D. (2023). Analysis of National and Urban Planning Keywords for Commercialization of Urban Air Mobility (UAM) using Text Mining. *Proceedings of Korea Institute of Ecological Architecture and Environment*, 23(2), 88–89. [🔗](https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE11654062)  
 
 
-<a href="/korpublications/" style="color: #888; text-decoration: none; font-size: 0.9em;">View in Korean</a>
-  
+[View in Korean](/korpublications/) 
