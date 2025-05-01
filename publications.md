@@ -1,6 +1,5 @@
 ---
 layout: single
-title: "Publication"
 permalink: /publications/
 classes: wide
 author_profile: true
@@ -8,6 +7,7 @@ author_profile: true
 
 
 #  JOURNAL PAPERS
+[View in Korean](/publications/journal/)  
 
 
 ##  First Author  
@@ -36,7 +36,7 @@ author_profile: true
 **2024** 
 - Lee, J.H., **Choi, K.**, Park, C., Lee, J.W., & Sohn, D. (2024). Predicting the Size of Fire Property Damage in an Industrial Complex Using a Machine Learning Model. *Korea Institute of Ecological Architecture and Environment Journal*, 24(2), 97–106. [🔗](https://www.dbpia.co.kr/Journal/articleDetail?nodeId=NODE11757093)
 
-👉 [KR 한국어로 보기](/publications/journal/)  
+
 
 ---
 
@@ -50,10 +50,12 @@ author_profile: true
 - Lee, J., **Choi, K.**, & Sohn, D. (2025). GIS-based Importance-Performance Analysis (IPA) for Fire Risk Assessment in Industrial Complexes. *(In Progress)*.
 - Lee, D., **Choi, K.**, Park, C., Kim, S., & Sohn, D. (2025). Data-driven Assessment of Urban Road Vulnerability Using GIS and Machine Learning: A Case Study of Pothole Risk in Gangnam-gu, Seoul. *(In Progress)*.
 
+
 ---
 
 
 #  CONFERENCE PAPERS  
+[View in Korean](/publications/conference/)
 
   
 **2025**  
@@ -70,6 +72,5 @@ author_profile: true
 - Park, C., Lee, J., **Choi, K.**, & Sohn, D. (2023). Analysis of National and Urban Planning Keywords for Commercialization of Urban Air Mobility (UAM) using Text Mining. *Proceedings of Korea Institute of Ecological Architecture and Environment*, 23(2), 88–89. [🔗](https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE11654062)  
 
 
-👉 [Conference Papers](/publications/conference/)
 
   
