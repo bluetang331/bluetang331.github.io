@@ -7,6 +7,10 @@ author_profile: true
 ---
 
 
+## Publications
+
+👉 [Journal Papers](/publications/journal/)  
+👉 [Conference Papers](/publications/conference/)
 
 
 
