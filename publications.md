@@ -59,7 +59,7 @@ author_profile: true
 - Lee, D., Oh, K., **Choi, K.**, Kim, S., & Sohn, D. (2025). Research Trends of Industrial Building Management in Domestic Urban and Architectural Areas. *Proceedings of Architectural Institute of Korea*.  
 
 **2024**  
-- **Choi, K.**, Park, C., & Sohn, D. (2024). Evaluating the Effect of Street Environments on Survival of Restaurant: Using Machine Learning and Street View Images. *Proceedings of Korea Institute of Ecological Architecture and Environment*, 24(2), 74–75. **(Best Conference Paper Award)** [🔗](https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE12000480)
+- **Choi, K.**, Park, C., & Sohn, D. (2024). Analysis of the Visual Characteristics of Streetscape in Seoul. *Proceedings of Korea Institute of Ecological Architecture and Environment*, 24(2), 74–75. **(Best Conference Paper Award)** [🔗](https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE12000480)
   
 **2023**  
 - **Choi, K.**, Kim, S., Park, C., Jung, U., Lee, J., & Sohn, D. (2023). Classification of Indicators for Urban Fire Risk Assessment through Analysis of Previous Studies. *Proceedings of Architectural Institute of Korea*, 43(2), 242–243. [🔗](https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE11705739)
