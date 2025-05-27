@@ -46,7 +46,8 @@ author_profile: true
 - Park, C., **Choi, K.**, Sohn, D., & Lee, J. (2025). Fire Vulnerability Assessment in Industrial Complexes Based on GIS and AHP: A Case Study of the Namdong Industrial Complex, Incheon. *(In Progress)*.
 - Lee, J., **Choi, K.**, & Sohn, D. (2025). A TOPSIS-based Multi-criteria Analysis of Fire Risk Factors in Industrial Complexes. *(In Progress)*.
 - Lee, J., **Choi, K.**, & Sohn, D. (2025). GIS-based Importance-Performance Analysis (IPA) for Fire Risk Assessment in Industrial Complexes. *(In Progress)*.
-- Lee, D., **Choi, K.**, Park, C., Kim, S., & Sohn, D. (2025). Data-driven Assessment of Urban Road Vulnerability Using GIS and Machine Learning: A Case Study of Pothole Risk in Gangnam-gu, Seoul. *(In Progress)*.  
+- Lee, D., **Choi, K.**, Park, C., Kim, S., & Sohn, D. (2025). Data-driven Assessment of Urban Road Vulnerability Using GIS and Machine Learning: A Case Study of Pothole Risk in Gangnam-gu, Seoul. *(In Progress)*.
+- Kim, S., **Choi, K.**, & Lee, J. (2025). Analysis of Factors Affecting Occupancy Rates in Senior Welfare Housing. *(In Progress)*.  
 
 ---
 
