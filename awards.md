@@ -9,7 +9,7 @@ author_profile: true
 
 
 - **Best Conference Paper Award**, *Korea Institute of Ecological Architecture and Environment, Spring Conference*  
-  *“Analysis of the Visual Characteristics of Streetscape in Seoul”*  
+  *“An EEG-based Analysis of Pedestrian Neural Responses to Architectural Height Variation”*  
   May 23, 2025  
 
 - **Grand prize (Minister of Culture, Sports and Tourism Award)**, 21st Excellent Graduation Thesis Exhibition, *Architectural Institute of Korea*  
