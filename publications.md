@@ -26,6 +26,7 @@ author_profile: true
 ##  Co-Author  
 
 **2025**  
+- Valentine, C.*, Mitcheltree, H., Hosking, I., Jung, U., **Choi, K.**, Lee, D., Oh, K., & Kim, S. (2025). Façade Patterning and Visual Stress: A Computational Study of Architectural Design and Visual Stress in Seoul. *Discover Cities*. (Submitted)
 - Jung, U., Kim, S., **Choi, K.**, Lee, J., & Sohn, D. (2025). Effects of Color Changes in Building Façade on Pedestrian and Emotional Perception in a Virtual Urban Street Environment. *Sustainable Cities and Society*. (Submitted)
 - Jung, U., Lee, J., **Choi, K.**, Kim, S., & Sohn, D. (2025). The Impact of Architectural Detail Variation on Attention and Emotional Responses in Virtual Environments. *Journal of the Architectural Institute of Korea* (Accepted).
 - Lee, J.H., **Choi, K.**, Jung, U., & Lee, J.W. (2025). Application of EEG-Based Emotion Measurement via Brain-Computer Interface to BIM Design. *Korea Institute of Ecological Architecture and Environment Journal* (Revise and Resubmit).
