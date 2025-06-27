@@ -33,7 +33,7 @@ author_profile: true
 - Park, C., **Choi, K.**, Kim, S., Lee, D., Lee, J., & Sohn, D. (2025). Analysis of Pothole Vulnerable Roads Using GIS – Focused on Gangnam-gu. *Korea Institute of Ecological Architecture and Environment Journal*, 25(2), 15-22.
 - Kim, S., Park, C., Lee, D., **Choi, K.**, Nam, K., & Sohn, D. (2025). A GIS-based Study on Site Selection for Long-term Temporary Housing for Disaster Response - Focusing on Disaster Risk Index and Long-Term Residency Index. *Korea Institute of Ecological Architecture and Environment Journal* (Accepted).
 - Park, C., Kim, S., **Choi, K.**, Lee, D., Seo, D., & Sohn, D. (2025). GIS-based Site Selection for Foldable Modular System (FMS) in Disaster Preparedness and Resilience. *Journal of the Architectural Institute of Korea* (Submitted).
-- Kim, S., **Choi, K.**, Park, C., & Sohn, D. (2024). The Spatial Pattern of Inter-regional Migration by Age Groups and Its Influencing Factors. *Journal of the Architectural Institute of Korea*, 41(1), 187–198. [🔗](https://www.dbpia.co.kr/Journal/articleDetail?nodeId=NODE12036081)  
+- Kim, S., **Choi, K.**, Park, C., & Sohn, D. (2024). The Spatial Pattern of Inter-regional Migration by Age Groups and Its Influencing Factors. *Journal of the Architectural Institute of Korea*, 41(1), 187–198. [🔗](https://www.dbpia.co.kr/Journal/articleDetail?nodeId=NODE12036081)
 
 **2024** 
 - Lee, J.H., **Choi, K.**, Park, C., Lee, J.W., & Sohn, D. (2024). Predicting the Size of Fire Property Damage in an Industrial Complex Using a Machine Learning Model. *Korea Institute of Ecological Architecture and Environment Journal*, 24(2), 97–106. [🔗](https://www.dbpia.co.kr/Journal/articleDetail?nodeId=NODE11757093)  
@@ -48,7 +48,7 @@ author_profile: true
 - Lee, J., **Choi, K.**, & Sohn, D. (2025). A TOPSIS-based Multi-criteria Analysis of Fire Risk Factors in Industrial Complexes. *(In Progress)*.
 - Lee, J., **Choi, K.**, & Sohn, D. (2025). GIS-based Importance-Performance Analysis (IPA) for Fire Risk Assessment in Industrial Complexes. *(In Progress)*.
 - Lee, D., **Choi, K.**, Park, C., Kim, S., & Sohn, D. (2025). Data-driven Assessment of Urban Road Vulnerability Using GIS and Machine Learning: A Case Study of Pothole Risk in Gangnam-gu, Seoul. *(In Progress)*.
-- Kim, S., **Choi, K.**, & Lee, J. (2025). Analysis of Factors Affecting Occupancy Rates in Senior Welfare Housing. *(In Progress)*.  
+- Kim, S., **Choi, K.**, & Lee, J. (2025). Analysis of Factors Affecting Occupancy Rates in Senior Welfare Housing. Land and Housing Review. *(In Progress)*.  
 
 ---
 
